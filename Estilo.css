@@ -1,0 +1,347 @@
+.logonetflix {
+  margin-left: 5%;
+  margin-top: 0%;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.centerflex {
+  display: flex;
+  justify-content: space-between;
+}
+.container2 {
+  display: flex;
+  flex-direction: column;
+}
+.centerflex2 {
+  display: flex;
+  margin-bottom: 450px;
+}
+.container3 {
+  display: flex;
+  flex-direction: column;
+}
+.centerflex3 {
+  display: flex;
+}
+.portugues {
+  width: 5%;
+  display: inline-block;
+  border-style: solid;
+  border-width: thin;
+  border-color: white;
+  border-radius: 3px;
+  font-size: 1vw;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 1% 1% 1% 1%;
+
+  margin-left: 80vw;
+  margin-right: 2vw;
+  margin-top: -60px;
+  color: rgb(255, 255, 255);
+}
+
+.entrar {
+  width: 10%;
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(228, 10, 21);
+  border-radius: 7px;
+  display: inline-block;
+  margin-right: 2vw;
+  font-size: 30px;
+  text-align: center;
+  padding: 1% 1% 1% 1%;
+  margin-top: -60px;
+}
+
+.capa {
+  margin-top: -50px;
+}
+
+.filmes {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 700;
+  margin-bottom: 0px;
+  color: rgb(255, 255, 255);
+}
+.assista {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 45px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+}
+.pronto {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+}
+.email {
+  width: 40%;
+
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  border-color: gray;
+  padding: 1% 1% 1% 1%;
+
+  border-radius: 2px;
+
+  font-size: 30px;
+  text-align: left;
+  margin-left: 29.1%;
+}
+.vamos {
+  width: 10%;
+
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(228, 10, 21);
+  padding: 1% 1% 1% 1%;
+  border-radius: 2px;
+  display: inline-block;
+  margin-right: 20%;
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+
+  margin-left: 2%;
+}
+.aproveite {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 700;
+  margin-bottom: 0px;
+  margin-right: -100%;
+  color: rgb(255, 255, 255);
+}
+.assistaem {
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  font-size: 45px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  margin-left: 70%;
+  margin-right: -55%;
+}
+.tv {
+  margin-left: 25%;
+}
+
+.baixe {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 700;
+  margin-top: 400px;
+  margin-right: -38.4%;
+  color: rgb(255, 255, 255);
+}
+.salve {
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  font-size: 45px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  margin-left: 50%;
+  margin-right: -70%;
+  margin-top: 200px;
+}
+.assista2 {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 700;
+  margin-top: 400px;
+  margin-right: -38.4%;
+  color: rgb(255, 255, 255);
+}
+.assista3 {
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  font-size: 45px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  margin-left: 50%;
+  margin-right: -70%;
+  margin-top: 200px;
+}
+
+.crie {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 700;
+  margin-top: 400px;
+  margin-right: -38.4%;
+  color: rgb(255, 255, 255);
+}
+.deixe {
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  font-size: 45px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  margin-left: 50%;
+  margin-right: -70%;
+  margin-top: 200px;
+}
+
+.perguntas {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 700;
+  margin-top: 400px;
+  color: rgb(255, 255, 255);
+}
+
+.oqueé {
+  width: 40%;
+
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(48, 48, 48);
+  border-color: gray;
+  padding: 1% 1% 1% 1%;
+  border-radius: 2px;
+  font-size: 55px;
+  font-weight: 500;
+  text-align: left;
+  margin-left: 29.1%;
+  margin-bottom: 20px;
+}
+
+.Quanto {
+  width: 40%;
+
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(48, 48, 48);
+  border-color: gray;
+  padding: 1% 1% 1% 1%;
+  border-radius: 2px;
+  font-size: 55px;
+  font-weight: 500;
+  text-align: left;
+  margin-left: 29.1%;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.como {
+  width: 40%;
+
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(48, 48, 48);
+  border-color: gray;
+  padding: 1% 1% 1% 1%;
+  border-radius: 2px;
+  font-size: 55px;
+  font-weight: 500;
+  text-align: left;
+  margin-left: 29.1%;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.oque {
+  width: 40%;
+
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(48, 48, 48);
+  border-color: gray;
+  padding: 1% 1% 1% 1%;
+  border-radius: 2px;
+  font-size: 55px;
+  font-weight: 500;
+  text-align: left;
+  margin-left: 29.1%;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.oqueéa {
+  width: 40%;
+
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(48, 48, 48);
+  border-color: gray;
+  padding: 1% 1% 1% 1%;
+  border-radius: 2px;
+  font-size: 55px;
+  font-weight: 500;
+  text-align: left;
+  margin-left: 29.1%;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.anetflix {
+  width: 40%;
+
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(48, 48, 48);
+  border-color: gray;
+  padding: 1% 1% 1% 1%;
+  border-radius: 2px;
+  font-size: 55px;
+  font-weight: 500;
+  text-align: left;
+  margin-left: 29.1%;
+  margin-top: 0px;
+  margin-bottom: 150px;
+}
+
+.pronto2 {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  margin-bottom: 3px;
+}
+.email2 {
+  width: 40%;
+
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  border-color: gray;
+  padding: 1% 1% 1% 1%;
+
+  border-radius: 2px;
+
+  font-size: 30px;
+  text-align: left;
+  margin-left: 29.1%;
+  margin-top: 30px;
+}
+.vamos2 {
+  width: 10%;
+
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(228, 10, 21);
+  padding: 1% 1% 1% 1%;
+  border-radius: 2px;
+  display: inline-block;
+  margin-right: 20%;
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+
+  margin-left: 2%;
+}
